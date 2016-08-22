@@ -1,4 +1,3 @@
-layout_spectrum: 0.7018408270087093
 typography_spectrum: 0.9639499683398753
 color:
   brandStrength: 0.09405402722768486
@@ -11,4 +10,6 @@ color:
     - '#ADB3BF'
     - '#B78C6F'
     - '#D7D7DA'
+layout_spectrum: 0.7018408270087093
 name: COMBO HOMES
+description: positive gearing
