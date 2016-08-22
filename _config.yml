@@ -14,5 +14,9 @@ layout_spectrum: 0.7018408270087093
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e293c583-7b8d-487a-9528-1ac693805e1a.jpg
 name: COMBO HOMES
+navigation:
+  - name: About
+    url: www.combohomes.com.au/about
+    type: external
 title: Dual Occupancy
 description: positive gearing
